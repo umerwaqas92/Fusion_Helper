@@ -34,9 +34,10 @@ public class Fusion_Helper {
     private String TAG="Fusion_Helper";
 
     //Configuration    
-    public final String MY_APP_NAME="app"; //Your App Name
-    public final String SERVICE_EMAIL="freesms@freesms-178110.iam.gserviceaccount.com"; // Its the service email which you have setup in at cansole.google.com
-    public final String P12_FILENAME="FreeSMS-d563f72d9c46.p12"; //it is the File name which you get After creating service account
+    public final String MY_APP_NAME="APP"; //Your App Name
+    public final String SERVICE_EMAIL="xxx@xxxxxxxgserviceaccount.com"; // Its the service email which you have setup in at cansole.google.com
+    public final String P12_FILENAME="xxxxx.p12"; //it is the File name which you get After creating service account and File must be in assets folder
+    
 
 
     public Fusion_Helper(Context context) {
