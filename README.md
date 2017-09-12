@@ -90,7 +90,7 @@ private class Fusion_Query extends AsyncTask {
     }
 ```
 Permessions
-===========
+---------------
 * Add the following permession in your ```Manifest.xml```
 ```xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission> 
