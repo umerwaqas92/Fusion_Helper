@@ -33,7 +33,7 @@ allprojects {
     }
 }
 ```
-* Copy .p12 extension file to ```src/main/assets``` folde of your project.
+* Copy .p12 extension file to ```src/main/assets``` folder of your project.
 * Now copy ```Fusion_Helper.java``` to your project.
 * in ```Fusion_Helper.java``` change the app name to your app name,change the ```service email```, change the name of ```.p12 extension file```.
 
